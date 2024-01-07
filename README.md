@@ -1,6 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Calle
 Software Development Student
-Love coding and creating awesome things.* 🌍  I'm based in Ecuador* ✉️  You can contact me at [callealexander5@gmail.com](mailto:callealexander5@gmail.com)* 🧠  I'm learning Javascript, Angular, HTML and CSS
+Love coding and creating awesome things.
+* 🌍  I'm based in Ecuador
+* ✉️  You can contact me at [callealexander5@gmail.com](mailto:callealexander5@gmail.com)
+* 🧠  I'm learning Javascript, Angular, HTML and CSS
 
 ### Skills
 
